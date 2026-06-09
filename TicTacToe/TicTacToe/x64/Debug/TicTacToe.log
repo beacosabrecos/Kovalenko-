@@ -1,0 +1,8 @@
+﻿  Game.cpp
+  Gamemap.cpp
+  Gamer.cpp
+  start.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Game.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  TicTacToe.vcxproj -> C:\Users\aleks\Desktop\x64\Debug\TicTacToe.exe
